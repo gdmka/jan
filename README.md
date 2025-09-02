@@ -30,28 +30,14 @@ The easiest way to get started is by downloading one of the following versions f
 <table>
   <tr>
     <td><b>Platform</b></td>
-    <td><b>Stable</b></td>
-    <td><b>Nightly</b></td>
-  </tr>
-  <tr>
-    <td><b>Windows</b></td>
-    <td><a href='https://app.jan.ai/download/latest/win-x64'>jan.exe</a></td>
-    <td><a href='https://app.jan.ai/download/nightly/win-x64'>jan.exe</a></td>
+    <td><b>Download</b></td>
   </tr>
   <tr>
     <td><b>macOS</b></td>
-    <td><a href='https://app.jan.ai/download/latest/mac-universal'>jan.dmg</a></td>
-    <td><a href='https://app.jan.ai/download/nightly/mac-universal'>jan.dmg</a></td>
+    <td><a href='https://github.com/gdmka/jan/releases/download/v0.6.599/jan.dmg'>jan.dmg</a></td>
   </tr>
   <tr>
-    <td><b>Linux (deb)</b></td>
-    <td><a href='https://app.jan.ai/download/latest/linux-amd64-deb'>jan.deb</a></td>
-    <td><a href='https://app.jan.ai/download/nightly/linux-amd64-deb'>jan.deb</a></td>
-  </tr>
-  <tr>
-    <td><b>Linux (AppImage)</b></td>
-    <td><a href='https://app.jan.ai/download/latest/linux-amd64-appimage'>jan.AppImage</a></td>
-    <td><a href='https://app.jan.ai/download/nightly/linux-amd64-appimage'>jan.AppImage</a></td>
+    <td colspan="2" align="center"><i>Windows and Linux builds coming soon</i></td>
   </tr>
 </table>
 
